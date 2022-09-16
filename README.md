@@ -9,4 +9,6 @@ deadlock detection 方法，說明 deadlock 產生原因並透過實驗證明。
 3. 承 2，利用課本 8.5.4 circular wait、8.6.2 resource allocation graph algorithm
 或 8.6.3 resource request algorithm 之方法修改程式，避免 deadlock，並透
 過實驗證明。
+
 二、執行環境: 使用 Java、Windows 或 Linux 所提供的同步機制進行實作
+
